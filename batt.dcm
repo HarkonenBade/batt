@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FS312F-G
+F https://datasheet.lcsc.com/szlcsc/1811151452_Fortune-Semicon-FS312F-G_C82736.pdf
+$ENDCMP
+#
+$CMP FS8205
+F https://datasheet.lcsc.com/szlcsc/1810110910_Fortune-Semicon-FS8205_C32254.pdf
+$ENDCMP
+#
+$CMP TP4056
+F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
+$ENDCMP
+#
+#End Doc Library
