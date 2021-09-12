@@ -8,6 +8,16 @@ $CMP FS8205
 F https://datasheet.lcsc.com/szlcsc/1810110910_Fortune-Semicon-FS8205_C32254.pdf
 $ENDCMP
 #
+$CMP LED_Small_Rev
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
+$CMP PAM2804
+F https://datasheet.lcsc.com/lcsc/1809302114_Diodes-Incorporated-PAM2804AAB010_C71463.pdf
+$ENDCMP
+#
 $CMP TP4056
 F https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf
 $ENDCMP

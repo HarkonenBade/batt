@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name batt)(type Legacy)(uri ${KIPRJMOD}/../batt.lib)(options "")(descr ""))
+  (lib (name batt-rescue)(type Legacy)(uri ${KIPRJMOD}/batt-rescue.lib)(options "")(descr ""))
+)
